@@ -64,16 +64,23 @@ Asegúrate de tener instalado lo siguiente:
     ```bash
     cd GRAND-PASS-ADMIN-REACT
     ```
-2.  Instala las dependencias:
+2.  **este paso es para que no haya problema en los siguientes** aplica estos comandos para que no haya problemade permisos
+    ```bash
+    Set-ExecutionPolicy RemoteSigned -Scope CurrentUser #para hacer un set
+    Get-ExecutionPolicy #luego de este si la respuesta es **RemoteSigned** no deberia haber problemas
+    
+    ```
+3.  Instala las dependencias:
     ```bash
     npm install 
     ```
-3.  Levantar la pagina web con el siguiente comando
+    
+4.  Levantar la pagina web con el siguiente comando
     ```env
     npm rundev
     ```
     
-4.  deberia salir el siguiente mensaje apretar ctrl+click sobre la direccion url creada
+5.  deberia salir el siguiente mensaje apretar ctrl+click sobre la direccion url creada
    ```bash
 > grand-pass-admin@0.0.1 dev
 > vite
