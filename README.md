@@ -1,4 +1,4 @@
-# 🚀 GrandPass - Gestión de Acceso y Estacionamiento Inteligente
+# 🚀 GrandPass - Fomentando la conexión social en adultos mayores
 
 Bienvenido al repositorio de GrandPass. Este proyecto se compone de una aplicación web para administración y un sistema Android para usuarios.
 
@@ -41,7 +41,7 @@ GrandPass busca reunir adultos mayores para realizar actividades recreativas, of
 * **Framework:** Android SDK
 * **Sistema de Construcción:** Gradle.
 
-### Backend (Asunción - si hay un backend central)
+### Backend
 
 * **Base de Datos:** Firebase Firestore. Permite almacenar, consultar y administrar información de forma sencilla y escalable, utilizando el SDK de Firebase para JavaScript para operaciones como consultas, creación, edición, eliminación y actualización dinámica de datos.
 
