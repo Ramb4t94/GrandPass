@@ -67,7 +67,7 @@ Asegúrate de tener instalado lo siguiente:
 2.  **este paso es para que no haya problema en los siguientes** aplica estos comandos para que no haya problemade permisos
     ```bash
     Set-ExecutionPolicy RemoteSigned -Scope CurrentUser #para hacer un set
-    Get-ExecutionPolicy #luego de este si la respuesta es **RemoteSigned** no deberia haber problemas
+    Get-ExecutionPolicy #luego de este si la respuesta es RemoteSigned no deberia haber problemas
     
     ```
 3.  Instala las dependencias:
