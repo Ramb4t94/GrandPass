@@ -86,7 +86,7 @@ Asegúrate de tener instalado lo siguiente:
 ### Configuración del Proyecto Android (app)
 
 1.  Abre Android Studio.
-2.  Selecciona `Open an Existing Project` y navega hasta la carpeta `GrandPassProyecto/app` (o el nombre real de tu carpeta raíz de Android).
+2.  Selecciona `Open an Existing Project` y navega hasta la carpeta `GrandPassProyecto/AppTest`.
 3.  Android Studio debería sincronizar automáticamente el proyecto y descargar las dependencias Gradle.
 4.  Si es necesario, crea un archivo `local.properties` en la raíz de tu proyecto Android (la misma carpeta donde está `build.gradle.kts (Project: AppTest)`) con la ruta a tu SDK de Android:
     ```properties
