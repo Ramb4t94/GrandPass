@@ -58,7 +58,7 @@ Sigue estas instrucciones para poner en marcha el proyecto en tu entorno local.
 
 Asegúrate de tener instalado lo siguiente:
 
-* **Node.js y npm/Yarn** (para la aplicación web)
+* **Node.js y npm (para la aplicación web)
 * **Android Studio y SDK de Android** (para la aplicación Android)
 * **Git**
 
@@ -70,17 +70,23 @@ Asegúrate de tener instalado lo siguiente:
     ```
 2.  Instala las dependencias:
     ```bash
-    npm install  # o yarn install
+    npm install 
     ```
-3.  Crea un archivo `.env` en la raíz de `GRAND-PASS-ADMIN-REACT` y configura las variables de entorno necesarias (ej: URL del API):
+3.  Levantar la pagina web con el siguiente comando
     ```env
-    # .env
-    REACT_APP_API_URL=http://localhost:5000/api
+    npm rundev
     ```
-    (Asegúrate de reemplazar con la URL correcta de tu backend si lo tienes.)
-4.  Inicia la aplicación:
+    
+4.  deberia salir el siguiente mensaje apretar ctrl+click sobre la direccion url creada
     ```bash
-    npm start  # o yarn start
+> vite
+
+
+  VITE v4.5.13  ready in 467 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
     ```
     La aplicación se abrirá en tu navegador en `http://localhost:3000` (o el puerto configurado).
 
@@ -98,41 +104,9 @@ Asegúrate de tener instalado lo siguiente:
     (Asegúrate de que este archivo esté en tu `.gitignore`.)
 5.  Ejecuta la aplicación en un emulador o dispositivo conectado.
 
-### Configuración del Backend (si aplica)
-
-(Si tienes un backend separado, describe aquí cómo configurarlo y ejecutarlo. Por ejemplo, si es Node.js:)
-
-1.  Navega a la carpeta de tu backend:
-    ```bash
-    cd path/to/your/backend-folder
-    ```
-2.  Instala las dependencias:
-    ```bash
-    npm install
-    ```
-3.  Configura las variables de entorno (ej: `PORT`, `DB_URL`, etc.).
-4.  Inicia el servidor:
-    ```bash
-    npm start
-    ```
-
-## 🤝 Contribuciones
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar este proyecto, por favor sigue estos pasos:
-
-1.  Haz un "fork" de este repositorio.
-2.  Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3.  Realiza tus cambios y haz commits descriptivos.
-4.  Envía tus cambios (`git push origin feature/nueva-funcionalidad`).
-5.  Abre un "Pull Request" explicando tus cambios.
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT (o la licencia que elijas). Puedes ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 📞 Contacto
 
-* **Tu Nombre/Alias:** Ramb4t94
+* Ramb4t94
 * **GitHub:** [Ramb4t94](https://github.com/Ramb4t94)
 * **Email:** (Opcional, si quieres incluirlo)
 
