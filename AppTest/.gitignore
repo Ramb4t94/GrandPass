@@ -1,0 +1,30 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Files for the Android tool to store data
+.idea/
+.gradle/
+/local.properties
+/captures
+.externalNativeBuild/
+.cxx/
+build/
+*/build/
+*.iml
+*.ipr
+*.iws
+
+# Lint files
+lint-results.html
+lint-results.xml
+
+# Unit test files
+/src/test/
+/src/androidTest/
+
+# Gradle properties
+*.properties
+!gradle.properties

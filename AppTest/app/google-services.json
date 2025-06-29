@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "656494308685",
+    "project_id": "grandpassdatabase",
+    "storage_bucket": "grandpassdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656494308685:android:ad26cad70fa918eed55b04",
+        "android_client_info": {
+          "package_name": "com.example.apptest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJUNKbEdULJue2R5etdgqrm_55ylWeAWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
