@@ -58,7 +58,7 @@ Sigue estas instrucciones para poner en marcha el proyecto en tu entorno local.
 
 Asegúrate de tener instalado lo siguiente:
 
-* **Node.js y npm (para la aplicación web)
+* **Node.js(https://nodejs.org/en) y npm** (para la aplicación web)
 * **Android Studio y SDK de Android** (para la aplicación Android)
 * **Git**
 
