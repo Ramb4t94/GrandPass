@@ -30,22 +30,21 @@ GrandPass busca reunir adultos mayores para realizar actividades recreativas, of
 
 ### Aplicación Web (GRAND-PASS-ADMIN-REACT)
 
-* **Frontend:** React, JavaScript, HTML, CSS, JSX, Json.
-* **Manejo de estado:** (Por ejemplo: Redux, Context API, Zustand, Recoil)
-* **UI Framework:** (Por ejemplo: Material-UI, Ant Design, Bootstrap)
+* **Frontend:** React, JavaScript, HTML, CSS, JSX.
+* **Construcción/Bundler:** Vite.
+* **Estilos:** Tailwind CSS, PostCSS.
+* **Formato de Datos:** JSON.
 
 ### Aplicación Android
 
-* **Lenguaje:** Kotlin (o Java)
+* **Lenguaje:** Kotlin
 * **Framework:** Android SDK
-* **Base de Datos (si aplica en el cliente):** (Por ejemplo: Room, SQLite)
-* **Otras librerías:** (Por ejemplo: Retrofit para API, Glide para imágenes, etc.)
+* **Sistema de Construcción:** Gradle.
 
 ### Backend (Asunción - si hay un backend central)
 
-* **Lenguaje/Framework:** (Por ejemplo: Node.js con Express, Python con Django/Flask, Java con Spring Boot, PHP con Laravel, etc.)
-* **Base de Datos:** (Por ejemplo: PostgreSQL, MySQL, MongoDB, Firebase)
-* **Autenticación:** (Por ejemplo: JWT, OAuth)
+* **Base de Datos:** Firebase Firestore. Permite almacenar, consultar y administrar información de forma sencilla y escalable, utilizando el SDK de Firebase para JavaScript para operaciones como consultas, creación, edición, eliminación y actualización dinámica de datos.
+
 
 ## 🚀 Cómo Empezar
 
@@ -97,11 +96,5 @@ Asegúrate de tener instalado lo siguiente:
     ```
     (Asegúrate de que este archivo esté en tu `.gitignore`.)
 5.  Ejecuta la aplicación en un emulador o dispositivo conectado.
-
-## 📞 Contacto
-
-* Ramb4t94
-* **GitHub:** [Ramb4t94](https://github.com/Ramb4t94)
-* **Email:** (Opcional, si quieres incluirlo)
 
 ---
