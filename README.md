@@ -78,17 +78,14 @@ Asegúrate de tener instalado lo siguiente:
     ```
     
 4.  deberia salir el siguiente mensaje apretar ctrl+click sobre la direccion url creada
-    ```bash
+   ```bash
+> grand-pass-admin@0.0.1 dev
 > vite
-
-
   VITE v4.5.13  ready in 467 ms
-
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h to show help
-    ```
-    La aplicación se abrirá en tu navegador en `http://localhost:3000` (o el puerto configurado).
+ ```
 
 ### Configuración del Proyecto Android (app)
 
