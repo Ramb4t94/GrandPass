@@ -1,39 +1,36 @@
 # 🚀 GrandPass - Gestión de Acceso y Estacionamiento Inteligente
 
-Bienvenido al repositorio de GrandPass, una solución integral para la gestión inteligente de accesos y estacionamiento. Este proyecto se compone de una aplicación web para administración y un sistema Android para usuarios.
+Bienvenido al repositorio de GrandPass. Este proyecto se compone de una aplicación web para administración y un sistema Android para usuarios.
 
 ## 🌟 Visión General del Proyecto
 
-GrandPass busca optimizar la experiencia de gestión de espacios y acceso, ofreciendo una plataforma robusta y fácil de usar tanto para administradores como para usuarios finales.
+GrandPass busca reunir adultos mayores para realizar actividades recreativas, ofreciendo una plataforma robusta y fácil de usar tanto para administradores como para usuarios finales.
 
 ### Componentes Principales:
 
-* **Aplicación Web (React):** Panel de administración para la gestión de usuarios, vehículos, espacios de estacionamiento, registros de acceso, y más.
-* **Aplicación Android:** Aplicación móvil para que los usuarios puedan interactuar con el sistema (e.g., reservar espacios, gestionar accesos, ver historial).
+* **Aplicación Web (React):** Panel de administración.
+* **Aplicación Android:** Aplicación móvil para que los usuarios puedan interactuar con el sistema.
 
 ## ✨ Características Principales
 
 ### Aplicación Web (GRAND-PASS-ADMIN-REACT)
 
 * Gestión de usuarios y perfiles.
-* Administración de vehículos y permisos.
-* Monitorización en tiempo real de la ocupación de estacionamientos.
-* Generación de reportes y estadísticas.
-* Configuración de reglas de acceso y seguridad.
+* Administración de juegos.
+* Monitorización en tiempo real de busqueda de partidas.
 
 ### Aplicación Android
 
 * Registro y login de usuarios.
-* Visualización de disponibilidad de estacionamiento.
-* Reserva y liberación de espacios.
-* Acceso mediante credenciales o QR (si aplica).
-* Historial de accesos y estacionamiento.
+* Visualización de actividades.
+* Busqueda mediante geolocalizacion.
+* Matching de usuarios.
 
 ## 🛠️ Tecnologías Utilizadas
 
 ### Aplicación Web (GRAND-PASS-ADMIN-REACT)
 
-* **Frontend:** React, JavaScript (o TypeScript si lo estás usando), HTML, CSS.
+* **Frontend:** React, JavaScript, HTML, CSS, JSX, Json.
 * **Manejo de estado:** (Por ejemplo: Redux, Context API, Zustand, Recoil)
 * **UI Framework:** (Por ejemplo: Material-UI, Ant Design, Bootstrap)
 
