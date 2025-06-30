@@ -19,7 +19,7 @@ GrandPass busca reunir adultos mayores para realizar actividades recreativas, of
 * Administración de juegos.
 * Monitorización en tiempo real de busqueda de partidas.
 
-### Aplicación Android
+### Aplicación Android(AppTest)
 
 * Registro y login de usuarios.
 * Visualización de actividades.
