@@ -104,4 +104,11 @@ Asegúrate de tener instalado lo siguiente:
     (Asegúrate de que este archivo esté en tu `.gitignore`.)
 5.  Ejecuta la aplicación en un emulador o dispositivo conectado.
 
+**Generación del Archivo APK (Depuración)**
+Para generar un APK de depuración (usado para pruebas):
+
+En Android Studio, ve a Build > Build Bundle(s) / APK(s) > Build APK(s).
+
+Una vez finalizado, haz clic en "locate" en la notificación de Android Studio para encontrar el archivo APK (generalmente en app/build/outputs/apk/debug/app-debug.apk).
+
 ---
