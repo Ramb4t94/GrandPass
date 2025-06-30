@@ -35,7 +35,7 @@ GrandPass busca reunir adultos mayores para realizar actividades recreativas, of
 * **Estilos:** Tailwind CSS, PostCSS.
 * **Formato de Datos:** JSON.
 
-### Aplicación Android
+### Aplicación Android(AppTest)
 
 * **Lenguaje:** Kotlin
 * **Framework:** Android SDK
